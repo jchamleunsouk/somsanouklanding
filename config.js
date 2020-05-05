@@ -8,8 +8,8 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: ``, // This path is subpath of your hosting https://domain/portfolio
-  authorName: 'somsnaouk.com',
-  heading: 'Under Construction - June 2020',
+  authorName: 'somsanouk.com',
+  heading: 'Under Construction, See you guys in Summer 2020 - Love Julian',
   // social
   socialLinks: [
 
