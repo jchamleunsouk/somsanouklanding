@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: ``, // This path is subpath of your hosting https://domain/portfolio
   authorName: 'somsnaouk.com',
-  heading: 'Under Construction - May 2020',
+  heading: 'Under Construction - June 2020',
   // social
   socialLinks: [
 
