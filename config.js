@@ -9,14 +9,14 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: ``, // This path is subpath of your hosting https://domain/portfolio
   authorName: 'somsanouk.com',
-  heading: 'Under Construction... See you in the summertime - Jules',
+  heading: 'Under Construction... Have a good summer! - Jules',
   // social
   socialLinks: [
 
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:somsanoukagency@gmail.com',
+      url: 'mailto:hi@somsanouk.com',
     },
   ],
 };
